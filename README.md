@@ -1,5 +1,5 @@
 # Regression Discontinuity Design - COVID19 Analysis
-See the full code [here]('project/project_rdd.ipynyb')
+See the full code [here]('project/project_rdd.ipynb') 
 Presentation date: July 5, 2022 
 Collaborators: [Hasan Alqaroni](https://github.com/Halqaroni), [Devon Marcus](https://github.com/DevonMarcus), [Brian Wandum](https://github.com/wandum85)
 
@@ -27,6 +27,6 @@ The rate of case growth slowed from its initial exponential growth to a much mor
 The regression lines show a very clear upward trend in case counts after schools reopened in August 2020.
 
 #### December 2020
-<img align="center" src="data/xmax.png">
+<img align="center" src="data/xmas.png">
 
 The regression lines show an upward trend prior to the lockdown, and a downward trend after. 
