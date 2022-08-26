@@ -1,6 +1,6 @@
 # Regression Discontinuity Design - COVID19 Analysis
-See the full code [here]('project/project_rdd.ipynb') 
-Presentation date: July 5, 2022 
+See the full code [here]('project/project_rdd.ipynb')  
+Presentation date: July 5, 2022  
 Collaborators: [Hasan Alqaroni](https://github.com/Halqaroni), [Devon Marcus](https://github.com/DevonMarcus), [Brian Wandum](https://github.com/wandum85)
 
 The objective of this group project was to use regression discontinuity design to visualize the effects of three measures taken to mitigate the spread of COVID19 in the province of Quebec. These events were:
