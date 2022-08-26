@@ -1,5 +1,5 @@
 # Regression Discontinuity Design - COVID19 Analysis
-See the full code [here]('project/project_rdd.ipynb')  
+See the full code [here](project/project_rdd.ipynb)  
 Presentation date: July 5, 2022  
 Collaborators: [Hasan Alqaroni](https://github.com/Halqaroni), [Devon Marcus](https://github.com/DevonMarcus), [Brian Wandum](https://github.com/wandum85)
 
